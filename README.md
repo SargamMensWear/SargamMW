@@ -8,8 +8,6 @@ SargamMensWear.github.io
 ├── images\
 ├── js\
 │   └── script.js
-├── portfolio\
-│   └── (your portfolio images will go here)
 ├── index.html
 ├── services.html
 ├── portfolio.html
